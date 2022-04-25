@@ -1,13 +1,15 @@
 # Triangulation
 
+Authors: Jiaxi Xu, Tian-Ruei Kuan (group project)
 Create triangular mesh via both user input and auto generation given vertices.
+
 
 ## Objectives
 
 part 1. Design an efficient interface to let the user create a simple triangle mesh. 
 part 2. Given vertices, generates the Delaunay triangulation.
 
-notice: this a group project. 
+
 
 ## How to use
 Open any file in main folder with Processing, click on Run.
