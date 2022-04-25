@@ -7,6 +7,8 @@ Create triangular mesh via both user input and auto generation given vertices.
 part 1. Design an efficient interface to let the user create a simple triangle mesh. 
 part 2. Given vertices, generates the Delaunay triangulation.
 
+notice: this a group project. 
+
 ## How to use
 Open any file in main folder with Processing, click on Run.
 In the application, press '0' to clear first.
