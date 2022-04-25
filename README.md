@@ -23,8 +23,11 @@ Given the vertices, generates the Delaunay triangulation with the efficiency of 
 ## Result
 screen recordnig of the final result
 
+#### part 1: 
 ![result](part1_GUI.gif)
 
+
+#### part 2: 
 ![result2](part2_Delaunay.gif)
 
 ## Resources
